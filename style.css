@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
+body {
+  margin: 0;
+  font-family: 'Quicksand', sans-serif;
+  background-color: #434f4f;
+  color: #ffffff;
+}
+h1 {
+  text-align: center;
+}
+p {
+  display: inline-block;
+  background-color: #eeeeee;
+  color: black;
+  }
+li {
+    list-style-type: none;
+}
+.create-column {
+  font-size: 18px;
+  font-family: 'Quicksand', sans-serif;
+}
+.btn-delete {
+  background-color: #eeeeee;
+  color: #ff0000;
+  border-radius: 5px;
+  font-size: 18px;
+}
+.add-card {
+  border-radius: 5px;
+  font-size: 18px;
+}
+.column {
+  background-color: #838e8e;
+}
